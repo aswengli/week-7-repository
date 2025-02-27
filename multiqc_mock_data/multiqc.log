@@ -1,0 +1,2 @@
+[2025-02-27 14:26:00,116] multiqc.core.file_search                           [INFO   ]  Search path: /ocean/projects/agr250001p/wengliko/week-7-repository/fastqc_mock_out
+[2025-02-27 14:26:00,968] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 3 reports

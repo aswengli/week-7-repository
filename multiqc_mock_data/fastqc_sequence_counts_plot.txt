@@ -1,0 +1,4 @@
+Sample	Unique Reads	Duplicate Reads
+206534	846.0	35558.0
+206536	752.0	29883.0
+206538	439.0	15323.0

@@ -1,0 +1,4 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	206538	/ocean/projects/agr250001p/wengliko/week-7-repository/fastqc_mock_out/206538_fastqc.zip
+FastQC	all_sections	206536	/ocean/projects/agr250001p/wengliko/week-7-repository/fastqc_mock_out/206536_fastqc.zip
+FastQC	all_sections	206534	/ocean/projects/agr250001p/wengliko/week-7-repository/fastqc_mock_out/206534_fastqc.zip
